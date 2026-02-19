@@ -19,4 +19,3 @@ TensorFlow / Keras
 NumPy, Pandas, Matplotlib
 OpenCV
 Tkinter or Flask (for UI)
-
